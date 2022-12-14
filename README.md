@@ -1,4 +1,4 @@
-# viz
+[# viz
 visualize code execution
 
 
@@ -15,7 +15,7 @@ visualize code execution
 Create a tool that takes human code as input, and shows how that code actually executes. There are many levels of abstraction at which this could be viewed.
 
 ## Components
-ref: [The Pthon VM[(https://leanpub.com/insidethepythonvirtualmachine/read#:~:text=The%20Python%20virtual%20machine%20is,back%20on%20the%20value%20stack.)
+ref: [The Pthon VM](https://leanpub.com/insidethepythonvirtualmachine/read#:~:text=The%20Python%20virtual%20machine%20is,back%20on%20the%20value%20stack.)
 
 ### cPython:
 * Input (code)
@@ -25,3 +25,4 @@ ref: [The Pthon VM[(https://leanpub.com/insidethepythonvirtualmachine/read#:~:te
 * code object
   * creation
   * execution
+](https://leanpub.com/insidethepythonvirtualmachine/read#:~:text=The%20Python%20virtual%20machine%20is,back%20on%20the%20value%20stack.)
